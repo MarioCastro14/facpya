@@ -12,7 +12,6 @@ print(reves)
 revessinespacios=reves.replace(" ","")
 
 if mensajesinespacios == revessinespacios:
-    
     print("La palabra si es palidromo")
 else:
     print("la palabra no es palidromo")
